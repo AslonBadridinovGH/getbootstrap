@@ -23,8 +23,8 @@ function App() {
     
       
     <div class="container">
-      
-      <div class="d-flex flex-wrap justify-content-between card-deck mb-3 text-center">
+
+      <div class="card-deck mb-3 text-center ">
        
         <div class="card mb-4 shadow-sm">
           <div class="card-header">
