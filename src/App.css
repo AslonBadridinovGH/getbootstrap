@@ -1,0 +1,12 @@
+
+.card{
+    width: 400px;
+}
+
+.text-muted{
+    text-decoration: none;
+
+}
+li .text-muted:hover{
+    text-decoration: underline;
+}
